@@ -1,0 +1,117 @@
+#ProfilePic {
+    justify-items: center;
+    margin-inline: auto;
+    margin-top: 6%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 0;
+    border: 2px solid rgb(102, 140, 247);
+    box-shadow: 0 0 10px rgba(83, 95, 255, 0.644);
+    cursor: pointer;
+}
+
+#ProfilePicModal {
+    justify-items: center;
+    margin-inline: auto;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 0;
+    border: 2px solid rgb(102, 140, 247);
+    box-shadow: 0 0 10px rgba(83, 95, 255, 0.644);
+}
+
+
+#ProfileNameModal {
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+#ProfileName {
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#Graph {
+    margin-top: 100px;
+}
+
+#previewPic {
+    margin-inline: auto;
+    width: 250px;
+}
+
+.nameBut {
+    margin-left: 5px;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+    font-size: large;
+}
+
+#Profile {
+    border: 1px solid rgb(160, 182, 255);
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(83, 95, 255, 0.644);
+    height: max-content;
+}
+
+#icon-propic {
+    width: 40px;
+    margin-right: 20px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    border: 1px solid rgb(100, 100, 100);
+}
+
+#profilelink {
+    text-decoration: none;
+}
+
+#card-content {
+    margin-inline: auto;
+    font-size: x-large;
+}
+
+#CoinsChart {
+    margin-inline: auto;
+    width: max-content;
+    height: max-content;
+    font-size: x-large;
+}
+
+#total-pnl {
+    text-align: center;
+    font-size: x-large;
+}
+
+#cardprofile {
+    box-shadow: 0 0 10px rgba(238, 170, 255, 0.644);
+}
+
+#cardprofilemodal {
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(238, 170, 255, 0.644);
+}
+
+#nameprofile {
+    font-size: 25px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#showprofile {
+    margin-top: 200px;
+}

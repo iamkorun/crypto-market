@@ -1,0 +1,109 @@
+#line-title {
+    padding: 20px;
+    text-align: center;
+    background-color: #16c464;
+    border-bottom: 1px solid rgb(199, 199, 198);
+    color: rgb(255, 255, 255);
+}
+
+#line-title h5 {
+
+    color: rgb(0, 0, 0);
+}
+
+#line-tutorial {
+    font-size: large;
+    text-align: center;
+}
+
+#line-token {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#line-pic {
+    margin-top: 20px;
+    width: 380px;
+    box-shadow: 0 0 10px rgb(163, 163, 163);
+}
+
+#line {
+    box-shadow: 0 0 10px rgb(163, 163, 163);
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#col-tutorial {
+    margin-top: 30px;
+    padding: 20px 20px;
+}
+
+#token {
+    border-top: 1px solid rgb(199, 199, 198);
+    margin-top: 30px;
+    padding: 50px 50px;
+    background-color: #16c464;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#ex-linenoti {
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+#line-token-pic {
+    margin-top: 20px;
+    width: 200px;
+    box-shadow: 0 0 20px rgb(163, 163, 163);
+}
+
+#line-token-title {
+
+    margin-top: 20px;
+    font-size: x-large;
+    border-bottom: 0.25px solid rgb(182, 182, 182);
+}
+
+#line-token-body {
+    font-size: 25px;
+}
+
+#line-token-body div span {
+    border: 0.25px solid rgb(182, 182, 182);
+    border-radius: 2px;
+    padding: 0 10px;
+    background-color: rgb(216, 216, 216);
+}
+
+
+
+#add-token {
+    margin-top: 20px;
+    background-color: #4d47c3;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+}
+
+#cancel-token {
+    margin-top: 20px;
+    background-color: #ff3131;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+}

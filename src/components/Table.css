@@ -1,0 +1,189 @@
+#content-table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.9em;
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+    /* box-shadow: 0 0 50px rgba(0, 0, 0, 0.25); */
+    width: auto;
+}
+
+#leaderboard-table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.9em;
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+    /* box-shadow: 0 0 50px rgba(0, 0, 0, 0.25); */
+    width: auto;
+}
+
+#content-table-trade {
+    overflow-y: scroll;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 0.9em;
+    border-radius: 5px 5px 5px 5px;
+    /* height: 300px; */
+    max-height: 100px;
+    width: auto;
+}
+
+#content-table-trade thead tr {
+    background-color: #5f5bcf;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+#leaderboard-table thead tr {
+    background-color: #5f5bcf;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+#leaderboard-table th,
+#leaderboard-table td {
+    padding: 15px 50px;
+    
+}
+
+#content-table-trade th,
+#content-table-trade td {
+    padding: 15px 50px;
+    
+}
+
+#content-table-trade tbody tr{
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+#content-table-trade tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+#content-table-trade tbody tr:last-of-type {
+    /* border-bottom: 2px solid #5f5bcf; */
+}
+
+#content-table thead tr {
+    background-color: #5f5bcf;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+#content-table th,
+#content-table td {
+    padding: 15px 50px;
+    
+}
+
+#content-table tbody tr {
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+#content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+#content-table tbody tr:last-of-type {
+    border-bottom: 2px solid #5f5bcf;
+}
+
+#leaderboard-table tbody tr:last-of-type {
+    border-bottom: 2px solid #5f5bcf;
+}
+
+.coinname{
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+#spinner {
+   margin: 100px 0; 
+   margin-inline: auto;
+}
+
+#content-table-wallet,
+#content-table-order {
+    border-collapse: collapse;
+    margin: 30px 0;
+    font-size: 0.9em;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    /* box-shadow: 0 0 50px rgba(0, 0, 0, 0.25);    */
+}
+
+#content-table-wallet thead tr,
+#content-table-order thead tr {
+    background-color: #5f5bcf;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+#content-table-wallet {
+    /* margin-top: 100px; */
+    text-align: center;
+   
+}
+
+#content-table-order {
+    margin-left: auto;
+    text-align: center;
+}
+
+#search {
+    margin: 20px;
+}
+
+.market{
+    margin-inline: auto;
+}
+
+.crypto{
+    margin-inline: auto;
+}
+
+#leaderboard-title {
+    margin-top: 5%;
+    font-size: xx-large;
+    color: #5f5bcf;
+    margin-inline: auto;
+    text-align: center;
+}
+
+#leaderboard-title i {
+    color: #d4af37;
+}
+
+#leaderboard {
+    font-size: x-large;
+    justify-content: center;
+    text-align: center;
+}
+
+#rank1 {
+    color: #d4af37;
+}
+
+#rank2 {
+    color: #C0C0C0;
+}
+
+#rank3 {
+    color: #CD7F32;
+}
+
+#butShowProfile {
+    border: 0;
+    background-color: #fff;
+    color: #5f5bcf;
+    cursor: pointer;
+}

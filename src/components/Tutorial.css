@@ -1,0 +1,14 @@
+#tutorial {
+width: 100%;
+}
+
+#warn{
+    margin-top: 20%;
+    text-align: center;
+    color: red;
+}
+
+#tutorial-pic{
+    width: 700px;
+    box-shadow: 0 0 20px rgb(99, 88, 255);
+}
